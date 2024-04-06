@@ -1,9 +1,9 @@
 ---
-title: Simple Guides for Fuwari
+title: 简单指南
 published: 2023-09-01
-description: "How to use this blog template."
+description: "如何插入图片素材及表头\tag等内容."
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
+tags: ["Blogging", "Customization"]
 category: Guides
 draft: false
 ---
@@ -37,8 +37,6 @@ draft: false
 | `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
 
 ## Where to Place the Post Files
-
-
 
 Your post files should be placed in `src/content/posts/` directory. You can also create sub-directories to better organize your posts and assets.
 

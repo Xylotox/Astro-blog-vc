@@ -1,7 +1,7 @@
 ---
-title: Include Video in the Posts
+title: 在post中插入视频,及哔站直接嵌入
 published: 2022-08-01
-description: This post demonstrates how to include embedded video in a blog post.
+description: 内含B站UP主丨景水 Astro官网教程-博客demo-05-组件处理.
 tags: [Example, Video]
 category: Examples
 draft: false
@@ -25,4 +25,4 @@ published: 2023-10-19
 
 ## Bilibili
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe  width="100%" height="468" src="//player.bilibili.com/player.html?aid=611436803&bvid=BV1s84y137o4&cid=1066892480&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
