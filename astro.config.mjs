@@ -24,10 +24,6 @@ const oklchToHex = str => {
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'hybrid',
-  adapter: vercel({
-    edgeMiddleware: true,
-  }),
   site: 'https://Meandro.net',
   base: '/',
   integrations: [
