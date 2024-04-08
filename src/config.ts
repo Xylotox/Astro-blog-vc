@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
   lang: 'zh_CN',
   themeHue: 250,
   banner: {
-    enable: false,
+    enable: true,
     src: 'assets/images/demo-banner.png',
   },
 }
@@ -25,7 +25,7 @@ export const navBarConfig: NavBarConfig = {
     {
       name: 'web-check',
       url: 'https://web-check.xyz/',
-      external: false
+      external: false,
     },
   ],
 }
