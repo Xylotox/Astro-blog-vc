@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'ΜΞΔΠDЯØ',
-  subtitle: '@meandro.net',
+  subtitle: '脏摊er',
   lang: 'zh_CN',
   themeHue: 250,
   banner: {
