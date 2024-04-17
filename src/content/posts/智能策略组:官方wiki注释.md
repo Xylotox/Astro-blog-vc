@@ -2,7 +2,7 @@
 title: 智能策略组:官方wiki注释
 published: 2024-04-17
 description: '这是一种全新的策略组类型，由我们精心设计的算法引擎所驱动，可以自动从该策略组的子策略中选择合适的策略。'
-image: './SURGE5.webp'
+image: './SURGE5.jpg'
 tags: [Surge,Smart Group,]
 category: '梯'
 draft: false 
